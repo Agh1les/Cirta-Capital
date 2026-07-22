@@ -1,12 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 58" role="img" aria-labelledby="t">
 <title id="t">Cirta Capital</title>
-<g transform="translate(3 4)" fill="none" stroke="#d9ad55" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M3 39h48"/>
-  <path d="M7 39V25c0-8 6-14 13-14s13 6 13 14v14"/>
-  <path d="M25 39V24c0-7 5-12 11-12s11 5 11 12v15"/>
-  <path d="M7 18h40"/>
-  <path d="M12 12 27 4l15 8"/>
-  <path d="M5 43h44"/>
+<g transform="translate(3 4)" fill="none" stroke="#d9ad55" stroke-width="3" stroke-linecap="round">
+  <circle cx="25" cy="25" r="20"/>
+  <circle cx="12" cy="25" r="11"/>
+  <circle cx="38" cy="25" r="11"/>
 </g>
 <text x="70" y="36" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#f5f7fb" letter-spacing=".8">CIRTA</text>
 <text x="159" y="36" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="400" fill="#aeb9c6" letter-spacing=".8">CAPITAL</text>

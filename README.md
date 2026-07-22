@@ -20,3 +20,8 @@ Cloudflare Pages setup:
 9. Add custom domains `cirtacapital.com` and `www.cirtacapital.com`.
 
 Do not delete Zoho MX, SPF, DKIM or DMARC records.
+
+
+## V3 update
+- Added `/about.html` with founder profile and photo.
+- Replaced the company logo and favicon with the three-interlocking-circle mark.

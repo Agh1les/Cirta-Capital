@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 190" role="img" aria-labelledby="title desc" preserveAspectRatio="xMinYMid meet">
+  <title id="title">Cirta Capital LLC</title>
+  <desc id="desc">Cirta Capital emblem and company name.</desc>
+  <g transform="translate(0 10)">
+    <g fill="none" stroke="#C8953F" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M8 146H388"/>
+      <path d="M26 146V107C26 54 57 20 98 20s72 34 72 87v39"/>
+      <path d="M226 146V107c0-53 31-87 72-87s72 34 72 87v39"/>
+      <path d="M142 146v-29c0-40 24-66 56-66s56 26 56 66v29"/>
+    </g>
+    <g fill="#142333">
+      <text x="425" y="79" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" letter-spacing="1.2">CIRTA CAPITAL</text>
+      <text x="426" y="119" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4.5">INTERNATIONAL INDUSTRIAL ADVISORY</text>
+    </g>
+  </g>
+</svg>

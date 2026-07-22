@@ -1,27 +1,13 @@
-# Cirta Capital website v2
+# Cirta Capital Website V4
 
-Recommended deployment: GitHub private repository connected to Cloudflare Pages.
+Upload every file in this folder to the web root, replacing the previous version.
 
-Why Git now:
-- version history and backups;
-- automatic deployment when changes are approved;
-- easy rollback;
-- no lock-in to a designer or local computer.
+Key checks after deployment:
+- https://cirtacapital.com/
+- https://cirtacapital.com/about.html
+- Language buttons EN / FR / ES work on both pages.
+- Navigation order is About Us, Outcomes, Services, Industries, Approach, Contact.
+- The owner photo stays inside its frame on desktop and mobile.
+- Email links open contact@cirtacapital.com.
 
-Cloudflare Pages setup:
-1. Create a private GitHub repository named `cirta-capital-website`.
-2. Upload all files in this folder to the repository root.
-3. Cloudflare → Workers & Pages → Create → Pages → Connect to Git.
-4. Select the repository.
-5. Framework preset: None.
-6. Build command: leave blank.
-7. Build output directory: `/` or leave the default root option accepted by the wizard.
-8. Deploy.
-9. Add custom domains `cirtacapital.com` and `www.cirtacapital.com`.
-
-Do not delete Zoho MX, SPF, DKIM or DMARC records.
-
-
-## V3 update
-- Added `/about.html` with founder profile and photo.
-- Replaced the company logo and favicon with the three-interlocking-circle mark.
+The site contains factual business information only. Keep the company email, legal facts, address/KYC documents, contracts and invoices consistent with banking applications.

@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 58" role="img" aria-labelledby="t">
-<title id="t">Cirta Capital</title>
-<g transform="translate(3 4)" fill="none" stroke="#d9ad55" stroke-width="3" stroke-linecap="round">
-  <circle cx="25" cy="25" r="20"/>
-  <circle cx="12" cy="25" r="11"/>
-  <circle cx="38" cy="25" r="11"/>
-</g>
-<text x="70" y="36" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#f5f7fb" letter-spacing=".8">CIRTA</text>
-<text x="159" y="36" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="400" fill="#aeb9c6" letter-spacing=".8">CAPITAL</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 565 177" role="img" aria-labelledby="title desc">
+<title id="title">Cirta Capital</title><desc id="desc">Three interlocking bridge arches above a horizontal line</desc>
+<rect width="565" height="177" fill="none"/>
+<g fill="none" stroke="#e4ae48" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M13 163H554"/>
+  <path d="M40 163V147C40 82.9 91.9 31 156 31S272 82.9 272 147V163"/>
+  <path d="M295 163V147C295 82.9 346.9 31 411 31S527 82.9 527 147V163"/>
+  <path d="M203 163V147C203 106.7 235.7 74 276 74S349 106.7 349 147V163"/>
+</g></svg>

@@ -8,7 +8,7 @@
   "theme_color": "#172a36",
   "icons": [
     {
-      "src": "./assets/img/favicon.svg",
+      "src": "./assets/img/favicon-v2.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"

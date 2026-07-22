@@ -124,3 +124,7 @@ Para casos, insights o artículos, se recomienda crear rutas por idioma y manten
 - enlaces internos desde la Home cuando exista contenido real;
 - sitemap actualizado;
 - ausencia de secciones vacías o “coming soon”.
+
+## Surgical update baseline and rollback
+
+The pre-change audited site is preserved in Git commit `fcff27d`. The logo, portrait presentation and Home rhythm update is commit `caa824a`. To inspect or restore the baseline locally, use `git checkout fcff27d` in a clone containing the included Git history.

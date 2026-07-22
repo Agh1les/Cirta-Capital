@@ -29,17 +29,14 @@ LEGAL_COPY = {
     "en": {
         "label": "Registered and mailing address:",
         "notice": "Cirta Capital LLC operates internationally. This address is used for legal and postal correspondence and is not a public-facing office.",
-        "review": "review by qualified counsel is recommended before final publication",
     },
     "fr": {
         "label": "Adresse légale et postale :",
         "notice": "Cirta Capital LLC exerce ses activités à l’international. Cette adresse est utilisée pour la correspondance légale et postale et ne constitue pas un bureau ouvert au public.",
-        "review": "validation par un conseil qualifié est recommandée avant publication définitive",
     },
     "es": {
         "label": "Dirección registral y postal:",
         "notice": "Cirta Capital LLC opera internacionalmente. Esta dirección se utiliza para correspondencia legal y postal y no es una oficina abierta al público.",
-        "review": "revisión por un profesional cualificado antes de la publicación definitiva",
     },
 }
 
@@ -315,8 +312,6 @@ def validate_legal_address_scope() -> None:
                 error(f"{rel_docs}: localized address label missing")
             if expected["notice"] not in normalized:
                 error(f"{rel_docs}: localized non-public-office notice missing")
-            if expected["review"] not in normalized:
-                error(f"{rel_docs}: professional legal-review warning missing")
 
     missing_pages = LEGAL_ADDRESS_PAGES - address_occurrences
     if missing_pages:

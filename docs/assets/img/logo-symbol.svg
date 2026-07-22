@@ -1,10 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 44" role="img" aria-labelledby="logo-title">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="112" height="44"
+     viewBox="-2 -2 116 48"
+     role="img"
+     aria-labelledby="logo-title">
   <title id="logo-title">Cirta Capital symbol</title>
-  <g fill="none" stroke="#D4A74F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+  <g fill="none"
+     stroke="#D4A74F"
+     stroke-width="2.4"
+     stroke-linecap="round"
+     stroke-linejoin="round">
     <path d="M4 39H108"/>
-    <path d="M10 39V27C10 14.85 19.85 5 32 5S54 14.85 54 27V39"/>
-    <path d="M39 39V31C39 22.16 46.16 15 55 15S71 22.16 71 31V39"/>
-    <path d="M55 39V28.5C55 18.8 57.3 10.9 63.5 5"/>
-    <path d="M98.5 5C104.7 10.9 107 18.8 107 28.5V39"/>
+    <path d="M10 39V27
+             C10 14.30 20.07 4 32.5 4
+             S55 14.30 55 27
+             V39"/>
+    <path d="M39 39V31
+             C39 22.16 46.16 15 55 15
+             S71 22.16 71 31
+             V39"/>
+    <path d="M55 39V27
+             C55 14.30 65.07 4 77.5 4
+             S100 14.30 100 27
+             V39"/>
   </g>
 </svg>

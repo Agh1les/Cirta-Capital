@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 165" role="img" aria-labelledby="title">
+<title id="title">Cirta Capital bridge emblem</title>
+<g fill="none" stroke="#E7B44E" stroke-width="3.2" stroke-linecap="round">
+  <path d="M28 146 C28 66 78 16 151 16 C224 16 274 66 274 146"/>
+  <path d="M286 146 C286 66 336 16 409 16 C482 16 532 66 532 146"/>
+  <path d="M206 146 C206 95 238 57 280 57 C322 57 354 95 354 146" stroke="#F0CA76"/>
+  <path d="M0 146 H560"/>
+</g>
+</svg>
